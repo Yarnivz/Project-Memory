@@ -1,0 +1,1 @@
+java -jar '/home/tishaak/logisim-stuff/logisim-generic-2.7.1.jar' '/run/user/1000/gvfs/onedrive:host=6c24e300-0afb-46bf-90ce-337d5915ea9f/Documenten/project/project-memory/Memory-Project.circ'
